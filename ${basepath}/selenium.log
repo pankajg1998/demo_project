@@ -11913,3 +11913,335 @@
 2024-11-02 18:54:23 TRACE Graph - [Graph] =============== DONE SORTING
 2024-11-02 18:54:23 TRACE Graph - [Graph] ====== SORTED NODES
 2024-11-02 18:54:23 TRACE Graph - [Graph] ====== END SORTED NODES
+2024-11-03 14:37:09 DEBUG TestNG - suiteXmlPath: "C:\Workspace\seleniumWebdriver\demo_project\testng.xml"
+2024-11-03 14:37:09 TRACE Graph - [Graph] ADDING NODE base_class.setup(java.lang.String,java.lang.String)[pri:0, instance:null] -1239766005
+2024-11-03 14:37:09 TRACE Graph - [Graph] ================ SORTING
+2024-11-03 14:37:09 TRACE Graph - [Graph] =============== DONE SORTING
+2024-11-03 14:37:09 TRACE Graph - [Graph] ====== SORTED NODES
+2024-11-03 14:37:09 TRACE Graph - [Graph] ====== END SORTED NODES
+2024-11-03 14:37:09 TRACE Graph - [Graph] ADDING NODE base_class.teardown()[pri:0, instance:null] 742913972
+2024-11-03 14:37:09 TRACE Graph - [Graph] ================ SORTING
+2024-11-03 14:37:09 TRACE Graph - [Graph] =============== DONE SORTING
+2024-11-03 14:37:09 TRACE Graph - [Graph] ====== SORTED NODES
+2024-11-03 14:37:09 TRACE Graph - [Graph] ====== END SORTED NODES
+2024-11-03 14:37:10 TRACE Graph - [Graph] ADDING NODE base_class.setup(java.lang.String,java.lang.String)[pri:0, instance:null] -1239766005
+2024-11-03 14:37:10 TRACE Graph - [Graph] ================ SORTING
+2024-11-03 14:37:10 TRACE Graph - [Graph] =============== DONE SORTING
+2024-11-03 14:37:10 TRACE Graph - [Graph] ====== SORTED NODES
+2024-11-03 14:37:10 TRACE Graph - [Graph] ====== END SORTED NODES
+2024-11-03 14:37:10 TRACE Graph - [Graph] ADDING NODE base_class.teardown()[pri:0, instance:null] 742913972
+2024-11-03 14:37:10 TRACE Graph - [Graph] ================ SORTING
+2024-11-03 14:37:10 TRACE Graph - [Graph] =============== DONE SORTING
+2024-11-03 14:37:10 TRACE Graph - [Graph] ====== SORTED NODES
+2024-11-03 14:37:10 TRACE Graph - [Graph] ====== END SORTED NODES
+2024-11-03 14:37:10 TRACE Graph - [Graph] ADDING NODE base_class.setup(java.lang.String,java.lang.String)[pri:0, instance:null] -1239766005
+2024-11-03 14:37:10 TRACE Graph - [Graph] ================ SORTING
+2024-11-03 14:37:10 TRACE Graph - [Graph] =============== DONE SORTING
+2024-11-03 14:37:10 TRACE Graph - [Graph] ====== SORTED NODES
+2024-11-03 14:37:10 TRACE Graph - [Graph] ====== END SORTED NODES
+2024-11-03 14:37:10 TRACE Graph - [Graph] ADDING NODE base_class.teardown()[pri:0, instance:null] 742913972
+2024-11-03 14:37:10 TRACE Graph - [Graph] ================ SORTING
+2024-11-03 14:37:10 TRACE Graph - [Graph] =============== DONE SORTING
+2024-11-03 14:37:10 TRACE Graph - [Graph] ====== SORTED NODES
+2024-11-03 14:37:10 TRACE Graph - [Graph] ====== END SORTED NODES
+2024-11-03 14:37:10 TRACE Graph - [Graph] ADDING NODE TC01_RegisterUser.registerusertest()[pri:0, instance:testcases.TC01_RegisterUser@68702e03] 686567076
+2024-11-03 14:37:10 TRACE Graph - [Graph] ADDING NODE TC02_LoginTest.verifyLoginfunction()[pri:0, instance:testcases.TC02_LoginTest@21ba0741] -965368320
+2024-11-03 14:37:10 TRACE Graph - [Graph] ADDING NODE TC03_LoginTestDataDriven.verifyloginDDf(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.TC03_LoginTestDataDriven@58ce9668] -821201862
+2024-11-03 14:37:10 TRACE Graph - [Graph] ================ SORTING
+2024-11-03 14:37:10 TRACE Graph - [Graph] =============== DONE SORTING
+2024-11-03 14:37:10 TRACE Graph - [Graph] ====== SORTED NODES
+2024-11-03 14:37:10 TRACE Graph - [Graph] ====== END SORTED NODES
+2024-11-03 14:37:10 INFO  TC01_RegisterUser - *****Opening browser
+2024-11-03 14:37:14 INFO  TC02_LoginTest - *****Opening browser
+2024-11-03 14:37:18 INFO  TC03_LoginTestDataDriven - *****Opening browser
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:37:23 TRACE XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2024-11-03 14:37:23 TRACE XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2024-11-03 14:37:23 TRACE XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2024-11-03 14:37:23 TRACE XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2024-11-03 14:37:23 TRACE XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2024-11-03 14:37:23 TRACE XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2024-11-03 14:37:23 TRACE XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2024-11-03 14:37:23 TRACE XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2024-11-03 14:37:23 TRACE XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2024-11-03 14:37:23 TRACE XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2024-11-03 14:37:23 TRACE XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2024-11-03 14:37:23 TRACE XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2024-11-03 14:37:23 TRACE XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2024-11-03 14:37:23 TRACE XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+2024-11-03 14:37:23 TRACE XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2024-11-03 14:37:23 TRACE XBeanDebug - Resolving type for handle themefd26doctype
+2024-11-03 14:37:23 TRACE XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+2024-11-03 14:37:23 TRACE XBeanDebug - Resolving type for handle ctstylesheet4257type
+2024-11-03 14:37:23 TRACE XBeanDebug - Resolving type for handle ctfonts6623type
+2024-11-03 14:37:23 TRACE XBeanDebug - Resolving type for handle ctfont14d8type
+2024-11-03 14:37:23 TRACE XBeanDebug - Resolving type for handle ctfills2c6ftype
+2024-11-03 14:37:23 TRACE XBeanDebug - Resolving type for handle ctfill550ctype
+2024-11-03 14:37:23 TRACE XBeanDebug - Resolving type for handle ctborders0d66type
+2024-11-03 14:37:23 TRACE XBeanDebug - Resolving type for handle ctborderf935type
+2024-11-03 14:37:23 TRACE XBeanDebug - Resolving type for handle ctcellxfs1322type
+2024-11-03 14:37:23 TRACE XBeanDebug - Resolving type for handle ctxf97f7type
+2024-11-03 14:37:23 TRACE XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+2024-11-03 14:37:23 TRACE XBeanDebug - Resolving type for handle ctdxfsb26atype
+2024-11-03 14:37:23 TRACE XBeanDebug - Resolving type for handle cttablestyles872ftype
+2024-11-03 14:37:23 TRACE XBeanDebug - Resolving type for handle sstf81fdoctype
+2024-11-03 14:37:23 TRACE XBeanDebug - Resolving type for handle ctsst44f3type
+2024-11-03 14:37:23 TRACE XBeanDebug - Resolving type for handle ctrsta472type
+2024-11-03 14:37:23 TRACE XBeanDebug - Resolving type for handle workbookec17doctype
+2024-11-03 14:37:23 TRACE XBeanDebug - Resolving type for handle ctworkbook83c3type
+2024-11-03 14:37:23 TRACE XBeanDebug - Resolving type for handle ctsheets49fdtype
+2024-11-03 14:37:23 TRACE XBeanDebug - Resolving type for handle ctsheet4dbetype
+2024-11-03 14:37:23 TRACE XBeanDebug - Resolving type for handle strelationshipid1e94type
+2024-11-03 14:37:23 TRACE XBeanDebug - Resolving type for handle worksheetf539doctype
+2024-11-03 14:37:23 TRACE XBeanDebug - Resolving type for handle ctworksheet530dtype
+2024-11-03 14:37:23 TRACE XBeanDebug - Resolving type for handle ctsheetdata8408type
+2024-11-03 14:37:23 TRACE XBeanDebug - Resolving type for handle ctrowdd39type
+2024-11-03 14:37:23 TRACE XBeanDebug - Resolving type for handle ctcell842btype
+2024-11-03 14:37:23 TRACE XBeanDebug - Resolving type for handle stcellrefe4e0type
+2024-11-03 14:37:23 TRACE XBeanDebug - Resolving type for handle ctcols627ctype
+2024-11-03 14:37:23 TRACE XBeanDebug - Resolving type for handle ctcola95ftype
+2024-11-03 14:37:23 TRACE XBeanDebug - Resolving type for handle cthyperlinks6416type
+2024-11-03 14:37:23 TRACE XBeanDebug - Resolving type for handle cthyperlink0c85type
+2024-11-03 14:37:23 TRACE XBeanDebug - Resolving type for handle stxstringf179type
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:37:23 TRACE XBeanDebug - Resolving type for handle stcelltypebf95type
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:37:23 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:37:24 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:37:24 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:37:24 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:37:24 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:37:24 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:37:24 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:37:24 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:37:24 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:37:24 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:37:24 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:37:24 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:37:24 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:37:24 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:37:24 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:37:24 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:37:24 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:37:24 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:37:24 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:37:24 TRACE Graph - [Graph] ADDING NODE TC01_RegisterUser.registerusertest()[pri:0, instance:testcases.TC01_RegisterUser@68702e03] 686567076
+2024-11-03 14:37:24 TRACE Graph - [Graph] ADDING NODE TC02_LoginTest.verifyLoginfunction()[pri:0, instance:testcases.TC02_LoginTest@21ba0741] -965368320
+2024-11-03 14:37:24 TRACE Graph - [Graph] ADDING NODE TC03_LoginTestDataDriven.verifyloginDDf(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.TC03_LoginTestDataDriven@58ce9668] -821201862
+2024-11-03 14:37:24 TRACE Graph - [Graph] ================ SORTING
+2024-11-03 14:37:24 TRACE Graph - [Graph] =============== DONE SORTING
+2024-11-03 14:37:24 TRACE Graph - [Graph] ====== SORTED NODES
+2024-11-03 14:37:24 TRACE Graph - [Graph] ====== END SORTED NODES
+2024-11-03 14:47:01 DEBUG TestNG - suiteXmlPath: "C:\Workspace\seleniumWebdriver\demo_project\testng.xml"
+2024-11-03 14:47:01 TRACE Graph - [Graph] ADDING NODE base_class.setup(java.lang.String,java.lang.String)[pri:0, instance:null] -1239766005
+2024-11-03 14:47:01 TRACE Graph - [Graph] ================ SORTING
+2024-11-03 14:47:01 TRACE Graph - [Graph] =============== DONE SORTING
+2024-11-03 14:47:01 TRACE Graph - [Graph] ====== SORTED NODES
+2024-11-03 14:47:01 TRACE Graph - [Graph] ====== END SORTED NODES
+2024-11-03 14:47:01 TRACE Graph - [Graph] ADDING NODE base_class.teardown()[pri:0, instance:null] 742913972
+2024-11-03 14:47:01 TRACE Graph - [Graph] ================ SORTING
+2024-11-03 14:47:01 TRACE Graph - [Graph] =============== DONE SORTING
+2024-11-03 14:47:01 TRACE Graph - [Graph] ====== SORTED NODES
+2024-11-03 14:47:01 TRACE Graph - [Graph] ====== END SORTED NODES
+2024-11-03 14:47:01 TRACE Graph - [Graph] ADDING NODE base_class.setup(java.lang.String,java.lang.String)[pri:0, instance:null] -1239766005
+2024-11-03 14:47:01 TRACE Graph - [Graph] ================ SORTING
+2024-11-03 14:47:01 TRACE Graph - [Graph] =============== DONE SORTING
+2024-11-03 14:47:01 TRACE Graph - [Graph] ====== SORTED NODES
+2024-11-03 14:47:01 TRACE Graph - [Graph] ====== END SORTED NODES
+2024-11-03 14:47:01 TRACE Graph - [Graph] ADDING NODE base_class.teardown()[pri:0, instance:null] 742913972
+2024-11-03 14:47:01 TRACE Graph - [Graph] ================ SORTING
+2024-11-03 14:47:01 TRACE Graph - [Graph] =============== DONE SORTING
+2024-11-03 14:47:01 TRACE Graph - [Graph] ====== SORTED NODES
+2024-11-03 14:47:01 TRACE Graph - [Graph] ====== END SORTED NODES
+2024-11-03 14:47:01 TRACE Graph - [Graph] ADDING NODE base_class.setup(java.lang.String,java.lang.String)[pri:0, instance:null] -1239766005
+2024-11-03 14:47:01 TRACE Graph - [Graph] ================ SORTING
+2024-11-03 14:47:01 TRACE Graph - [Graph] =============== DONE SORTING
+2024-11-03 14:47:01 TRACE Graph - [Graph] ====== SORTED NODES
+2024-11-03 14:47:01 TRACE Graph - [Graph] ====== END SORTED NODES
+2024-11-03 14:47:01 TRACE Graph - [Graph] ADDING NODE base_class.teardown()[pri:0, instance:null] 742913972
+2024-11-03 14:47:01 TRACE Graph - [Graph] ================ SORTING
+2024-11-03 14:47:01 TRACE Graph - [Graph] =============== DONE SORTING
+2024-11-03 14:47:01 TRACE Graph - [Graph] ====== SORTED NODES
+2024-11-03 14:47:01 TRACE Graph - [Graph] ====== END SORTED NODES
+2024-11-03 14:47:01 TRACE Graph - [Graph] ADDING NODE TC01_RegisterUser.registerusertest()[pri:0, instance:testcases.TC01_RegisterUser@68702e03] 686567076
+2024-11-03 14:47:01 TRACE Graph - [Graph] ADDING NODE TC02_LoginTest.verifyLoginfunction()[pri:0, instance:testcases.TC02_LoginTest@21ba0741] -965368320
+2024-11-03 14:47:01 TRACE Graph - [Graph] ADDING NODE TC03_LoginTestDataDriven.verifyloginDDf(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.TC03_LoginTestDataDriven@58ce9668] -821201862
+2024-11-03 14:47:01 TRACE Graph - [Graph] ================ SORTING
+2024-11-03 14:47:01 TRACE Graph - [Graph] =============== DONE SORTING
+2024-11-03 14:47:01 TRACE Graph - [Graph] ====== SORTED NODES
+2024-11-03 14:47:01 TRACE Graph - [Graph] ====== END SORTED NODES
+2024-11-03 14:47:01 INFO  TC01_RegisterUser - *****Opening browser
+2024-11-03 14:47:07 INFO  TC01_RegisterUser - **** browser opened***
+2024-11-03 14:47:07 INFO  TC01_RegisterUser - TC01_Registration test started
+2024-11-03 14:47:09 INFO  TC01_RegisterUser - TC02_Registration test finished
+2024-11-03 14:47:10 INFO  TC02_LoginTest - *****Opening browser
+2024-11-03 14:47:13 INFO  TC02_LoginTest - **** browser opened***
+2024-11-03 14:47:13 INFO  TC02_LoginTest - ******Login Test Started
+2024-11-03 14:47:15 INFO  TC02_LoginTest - *******Login Test Finished
+2024-11-03 14:47:16 INFO  TC03_LoginTestDataDriven - *****Opening browser
+2024-11-03 14:47:19 INFO  TC03_LoginTestDataDriven - **** browser opened***
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:47:20 TRACE XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2024-11-03 14:47:20 TRACE XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2024-11-03 14:47:20 TRACE XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2024-11-03 14:47:20 TRACE XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2024-11-03 14:47:20 TRACE XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2024-11-03 14:47:20 TRACE XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2024-11-03 14:47:20 TRACE XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2024-11-03 14:47:20 TRACE XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2024-11-03 14:47:20 TRACE XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2024-11-03 14:47:20 TRACE XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2024-11-03 14:47:20 TRACE XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2024-11-03 14:47:20 TRACE XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2024-11-03 14:47:20 TRACE XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2024-11-03 14:47:20 TRACE XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+2024-11-03 14:47:20 TRACE XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2024-11-03 14:47:20 TRACE XBeanDebug - Resolving type for handle themefd26doctype
+2024-11-03 14:47:20 TRACE XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+2024-11-03 14:47:20 TRACE XBeanDebug - Resolving type for handle ctstylesheet4257type
+2024-11-03 14:47:20 TRACE XBeanDebug - Resolving type for handle ctfonts6623type
+2024-11-03 14:47:20 TRACE XBeanDebug - Resolving type for handle ctfont14d8type
+2024-11-03 14:47:20 TRACE XBeanDebug - Resolving type for handle ctfills2c6ftype
+2024-11-03 14:47:20 TRACE XBeanDebug - Resolving type for handle ctfill550ctype
+2024-11-03 14:47:20 TRACE XBeanDebug - Resolving type for handle ctborders0d66type
+2024-11-03 14:47:20 TRACE XBeanDebug - Resolving type for handle ctborderf935type
+2024-11-03 14:47:20 TRACE XBeanDebug - Resolving type for handle ctcellxfs1322type
+2024-11-03 14:47:20 TRACE XBeanDebug - Resolving type for handle ctxf97f7type
+2024-11-03 14:47:20 TRACE XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+2024-11-03 14:47:20 TRACE XBeanDebug - Resolving type for handle ctdxfsb26atype
+2024-11-03 14:47:20 TRACE XBeanDebug - Resolving type for handle cttablestyles872ftype
+2024-11-03 14:47:20 TRACE XBeanDebug - Resolving type for handle sstf81fdoctype
+2024-11-03 14:47:20 TRACE XBeanDebug - Resolving type for handle ctsst44f3type
+2024-11-03 14:47:20 TRACE XBeanDebug - Resolving type for handle ctrsta472type
+2024-11-03 14:47:20 TRACE XBeanDebug - Resolving type for handle workbookec17doctype
+2024-11-03 14:47:20 TRACE XBeanDebug - Resolving type for handle ctworkbook83c3type
+2024-11-03 14:47:20 TRACE XBeanDebug - Resolving type for handle ctsheets49fdtype
+2024-11-03 14:47:20 TRACE XBeanDebug - Resolving type for handle ctsheet4dbetype
+2024-11-03 14:47:20 TRACE XBeanDebug - Resolving type for handle strelationshipid1e94type
+2024-11-03 14:47:20 TRACE XBeanDebug - Resolving type for handle worksheetf539doctype
+2024-11-03 14:47:20 TRACE XBeanDebug - Resolving type for handle ctworksheet530dtype
+2024-11-03 14:47:20 TRACE XBeanDebug - Resolving type for handle ctsheetdata8408type
+2024-11-03 14:47:20 TRACE XBeanDebug - Resolving type for handle ctrowdd39type
+2024-11-03 14:47:20 TRACE XBeanDebug - Resolving type for handle ctcell842btype
+2024-11-03 14:47:20 TRACE XBeanDebug - Resolving type for handle stcellrefe4e0type
+2024-11-03 14:47:20 TRACE XBeanDebug - Resolving type for handle ctcols627ctype
+2024-11-03 14:47:20 TRACE XBeanDebug - Resolving type for handle ctcola95ftype
+2024-11-03 14:47:20 TRACE XBeanDebug - Resolving type for handle cthyperlinks6416type
+2024-11-03 14:47:20 TRACE XBeanDebug - Resolving type for handle cthyperlink0c85type
+2024-11-03 14:47:20 TRACE XBeanDebug - Resolving type for handle stxstringf179type
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:47:20 TRACE XBeanDebug - Resolving type for handle stcelltypebf95type
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-03 14:47:20 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-11-03 14:47:20 INFO  TC03_LoginTestDataDriven - **** Data driver login starting
+2024-11-03 14:47:28 INFO  TC03_LoginTestDataDriven - *****Data driven loginn test completed
+2024-11-03 14:47:28 INFO  TC03_LoginTestDataDriven - **** Data driver login starting
+2024-11-03 14:47:37 INFO  TC03_LoginTestDataDriven - **** Data driver login starting
+2024-11-03 14:47:45 INFO  TC03_LoginTestDataDriven - *****Data driven loginn test completed
+2024-11-03 14:47:45 INFO  TC03_LoginTestDataDriven - **** Data driver login starting
+2024-11-03 14:47:54 INFO  TC03_LoginTestDataDriven - *****Data driven loginn test completed
+2024-11-03 14:47:54 INFO  TC03_LoginTestDataDriven - **** Data driver login starting
+2024-11-03 14:47:56 INFO  TC03_LoginTestDataDriven - *****Data driven loginn test completed
+2024-11-03 14:47:56 INFO  TC03_LoginTestDataDriven - **** Data driver login starting
+2024-11-03 14:47:58 INFO  TC03_LoginTestDataDriven - *****Data driven loginn test completed
+2024-11-03 14:48:00 TRACE Graph - [Graph] ADDING NODE TC01_RegisterUser.registerusertest()[pri:0, instance:testcases.TC01_RegisterUser@68702e03] 686567076
+2024-11-03 14:48:00 TRACE Graph - [Graph] ADDING NODE TC02_LoginTest.verifyLoginfunction()[pri:0, instance:testcases.TC02_LoginTest@21ba0741] -965368320
+2024-11-03 14:48:00 TRACE Graph - [Graph] ADDING NODE TC03_LoginTestDataDriven.verifyloginDDf(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.TC03_LoginTestDataDriven@58ce9668] -821201862
+2024-11-03 14:48:00 TRACE Graph - [Graph] ================ SORTING
+2024-11-03 14:48:00 TRACE Graph - [Graph] =============== DONE SORTING
+2024-11-03 14:48:00 TRACE Graph - [Graph] ====== SORTED NODES
+2024-11-03 14:48:00 TRACE Graph - [Graph] ====== END SORTED NODES

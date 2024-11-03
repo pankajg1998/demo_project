@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="8" passed="7" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-11-02T18:53:30 IST" name="Suite" finished-at="2024-11-02T18:54:22 IST" duration-ms="51752">
+  <suite started-at="2024-11-03T14:47:01 IST" name="Suite" finished-at="2024-11-03T14:47:59 IST" duration-ms="57874">
     <groups>
     </groups>
-    <test started-at="2024-11-02T18:53:30 IST" name="ChromeTest" finished-at="2024-11-02T18:54:22 IST" duration-ms="51752">
+    <test started-at="2024-11-03T14:47:01 IST" name="ChromeTest" finished-at="2024-11-03T14:47:59 IST" duration-ms="57874">
       <class name="testcases.TC02_LoginTest">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcases.TC02_LoginTest@21ba0741]" started-at="2024-11-02T18:53:36 IST" name="setup" finished-at="2024-11-02T18:53:39 IST" duration-ms="2928" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcases.TC02_LoginTest@21ba0741]" started-at="2024-11-03T14:47:10 IST" name="setup" finished-at="2024-11-03T14:47:13 IST" duration-ms="3622" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,17 +23,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifyLoginfunction()[pri:0, instance:testcases.TC02_LoginTest@21ba0741]" started-at="2024-11-02T18:53:39 IST" name="verifyLoginfunction" finished-at="2024-11-02T18:53:41 IST" duration-ms="2110" status="PASS">
+        <test-method signature="verifyLoginfunction()[pri:0, instance:testcases.TC02_LoginTest@21ba0741]" started-at="2024-11-03T14:47:13 IST" name="verifyLoginfunction" finished-at="2024-11-03T14:47:15 IST" duration-ms="2274" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginfunction -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.TC02_LoginTest@21ba0741]" started-at="2024-11-02T18:53:41 IST" name="teardown" finished-at="2024-11-02T18:53:41 IST" duration-ms="207" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.TC02_LoginTest@21ba0741]" started-at="2024-11-03T14:47:15 IST" name="teardown" finished-at="2024-11-03T14:47:16 IST" duration-ms="288" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- testcases.TC02_LoginTest -->
       <class name="testcases.TC03_LoginTestDataDriven">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcases.TC03_LoginTestDataDriven@58ce9668]" started-at="2024-11-02T18:53:41 IST" name="setup" finished-at="2024-11-02T18:53:44 IST" duration-ms="2709" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcases.TC03_LoginTestDataDriven@58ce9668]" started-at="2024-11-03T14:47:16 IST" name="setup" finished-at="2024-11-03T14:47:19 IST" duration-ms="3733" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -49,7 +49,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifyloginDDf(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.TC03_LoginTestDataDriven@58ce9668]" started-at="2024-11-02T18:53:45 IST" name="verifyloginDDf" data-provider="LoginData" finished-at="2024-11-02T18:53:53 IST" duration-ms="8080" status="PASS">
+        <test-method signature="verifyloginDDf(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.TC03_LoginTestDataDriven@58ce9668]" started-at="2024-11-03T14:47:20 IST" name="verifyloginDDf" data-provider="LoginData" finished-at="2024-11-03T14:47:28 IST" duration-ms="8102" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -70,7 +70,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyloginDDf -->
-        <test-method signature="verifyloginDDf(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.TC03_LoginTestDataDriven@58ce9668]" started-at="2024-11-02T18:53:53 IST" name="verifyloginDDf" data-provider="LoginData" finished-at="2024-11-02T18:54:01 IST" duration-ms="7924" status="FAIL">
+        <test-method signature="verifyloginDDf(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.TC03_LoginTestDataDriven@58ce9668]" started-at="2024-11-03T14:47:28 IST" name="verifyloginDDf" data-provider="LoginData" finished-at="2024-11-03T14:47:37 IST" duration-ms="8200" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -135,7 +135,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyloginDDf -->
-        <test-method signature="verifyloginDDf(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.TC03_LoginTestDataDriven@58ce9668]" started-at="2024-11-02T18:54:01 IST" name="verifyloginDDf" data-provider="LoginData" finished-at="2024-11-02T18:54:09 IST" duration-ms="8319" status="PASS">
+        <test-method signature="verifyloginDDf(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.TC03_LoginTestDataDriven@58ce9668]" started-at="2024-11-03T14:47:37 IST" name="verifyloginDDf" data-provider="LoginData" finished-at="2024-11-03T14:47:45 IST" duration-ms="8386" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -156,7 +156,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyloginDDf -->
-        <test-method signature="verifyloginDDf(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.TC03_LoginTestDataDriven@58ce9668]" started-at="2024-11-02T18:54:09 IST" name="verifyloginDDf" data-provider="LoginData" finished-at="2024-11-02T18:54:18 IST" duration-ms="8307" status="PASS">
+        <test-method signature="verifyloginDDf(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.TC03_LoginTestDataDriven@58ce9668]" started-at="2024-11-03T14:47:45 IST" name="verifyloginDDf" data-provider="LoginData" finished-at="2024-11-03T14:47:54 IST" duration-ms="8299" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -177,7 +177,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyloginDDf -->
-        <test-method signature="verifyloginDDf(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.TC03_LoginTestDataDriven@58ce9668]" started-at="2024-11-02T18:54:18 IST" name="verifyloginDDf" data-provider="LoginData" finished-at="2024-11-02T18:54:20 IST" duration-ms="2283" status="PASS">
+        <test-method signature="verifyloginDDf(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.TC03_LoginTestDataDriven@58ce9668]" started-at="2024-11-03T14:47:54 IST" name="verifyloginDDf" data-provider="LoginData" finished-at="2024-11-03T14:47:56 IST" duration-ms="2442" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -198,7 +198,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyloginDDf -->
-        <test-method signature="verifyloginDDf(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.TC03_LoginTestDataDriven@58ce9668]" started-at="2024-11-02T18:54:20 IST" name="verifyloginDDf" data-provider="LoginData" finished-at="2024-11-02T18:54:22 IST" duration-ms="1932" status="PASS">
+        <test-method signature="verifyloginDDf(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.TC03_LoginTestDataDriven@58ce9668]" started-at="2024-11-03T14:47:56 IST" name="verifyloginDDf" data-provider="LoginData" finished-at="2024-11-03T14:47:58 IST" duration-ms="2354" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -219,13 +219,13 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyloginDDf -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.TC03_LoginTestDataDriven@58ce9668]" started-at="2024-11-02T18:54:22 IST" name="teardown" finished-at="2024-11-02T18:54:22 IST" duration-ms="232" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.TC03_LoginTestDataDriven@58ce9668]" started-at="2024-11-03T14:47:58 IST" name="teardown" finished-at="2024-11-03T14:47:59 IST" duration-ms="313" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- testcases.TC03_LoginTestDataDriven -->
       <class name="testcases.TC01_RegisterUser">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcases.TC01_RegisterUser@68702e03]" started-at="2024-11-02T18:53:31 IST" name="setup" finished-at="2024-11-02T18:53:34 IST" duration-ms="3257" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcases.TC01_RegisterUser@68702e03]" started-at="2024-11-03T14:47:01 IST" name="setup" finished-at="2024-11-03T14:47:07 IST" duration-ms="6135" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -241,11 +241,11 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="registerusertest()[pri:0, instance:testcases.TC01_RegisterUser@68702e03]" started-at="2024-11-02T18:53:34 IST" name="registerusertest" finished-at="2024-11-02T18:53:36 IST" duration-ms="1762" status="PASS">
+        <test-method signature="registerusertest()[pri:0, instance:testcases.TC01_RegisterUser@68702e03]" started-at="2024-11-03T14:47:07 IST" name="registerusertest" finished-at="2024-11-03T14:47:09 IST" duration-ms="2108" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registerusertest -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.TC01_RegisterUser@68702e03]" started-at="2024-11-02T18:53:36 IST" name="teardown" finished-at="2024-11-02T18:53:36 IST" duration-ms="203" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.TC01_RegisterUser@68702e03]" started-at="2024-11-03T14:47:09 IST" name="teardown" finished-at="2024-11-03T14:47:10 IST" duration-ms="335" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
